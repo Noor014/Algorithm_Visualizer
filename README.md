@@ -1,7 +1,6 @@
 # Algorithm Visualizer
 
-This project is developed using HTML, CSS and JavaScript. It helps to visualize sorting algorithms and Pathfinding Algoritm. It can be viewed here https://algorithm-visualizer-5d117.web.app/
-
+This project is developed using HTML, CSS and JavaScript. It helps to visualize sorting algorithms and Pathfinding Algoritm. 
 
 ## Sorting Agorithm
 <ul>
